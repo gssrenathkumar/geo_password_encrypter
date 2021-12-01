@@ -1,6 +1,3 @@
-
-![istockphoto-1148633735-612x612](https://user-images.githubusercontent.com/70089532/144173134-f362ba99-1b81-4128-9f7f-ced110fe5aa5.jpg)
-
 # Note: Internet is mandatory for getting your current location
 
 ## Project Description
