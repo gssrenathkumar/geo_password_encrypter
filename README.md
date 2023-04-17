@@ -36,5 +36,5 @@ Usable Functions(Changable):<p>
 ---------------------------------------------------------------
 Exceptions:
 <p>
-           ConnectionError
+           ConnectionError!
 
